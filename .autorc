@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "myakhlaqi",
+  "repo": "container-saggnw",
+  "name": "myakhlaqi",
+  "email": "yahya.akhlaghi@gmail.com",
+}
